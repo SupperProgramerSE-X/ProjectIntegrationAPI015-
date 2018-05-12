@@ -1,0 +1,11 @@
+header {
+    background: url(../image/header-bg.jpg) no-repeat center center;
+    width: 100%;
+    padding: 20px 10px 60px 10px;
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
